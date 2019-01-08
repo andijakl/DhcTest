@@ -1,3 +1,3 @@
 # DhcTest
 
-Welcome to my first repository!
+Welcome to my second repository!

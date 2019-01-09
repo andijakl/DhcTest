@@ -13,4 +13,8 @@ $(document).ready(function () {
 
         e.preventDefault();
     })
+
+    socket.on('NodeAnswer', function(msg) {
+        $('.node-msg').html(msg);
+    })
 })
